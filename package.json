@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/manninggrinnan.lwc-l34ohdd3",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ApFWHkxnF9Ze8cwKHa0S --open"
+  }
+}
